@@ -1,2 +1,3 @@
-# PrepCouse-Henry
-Curso preparatorio de SoyHenry. Modulo2 Prueba
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi repositorio local
+
+Juan Ignacio Tosso
